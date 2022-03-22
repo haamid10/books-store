@@ -21,7 +21,7 @@ require('includes/config.php');
 		<style>
 
 			body{
-				background: #23e3;
+				background: #22e3;
 				
 			}
 		</style>
